@@ -76,7 +76,7 @@ cargo run --release
 
 ## Support
 
-For support and inquiries, please connect via Telegram: 📞 [Benjamin](https://t.me/blockchainDeveloper_Ben)
+For support and inquiries, please connect via Telegram: 📞 [Benjamin](https://web.telegram.org/k/#@cryptotrading2150)
 
 ## License
 
